@@ -15,3 +15,8 @@ An Express.js weather application that fetches and displays weather data using a
 - **API:** [OpenWeatherMap](https://openweathermap.org/) (or your API provider)
 - **Environment Variables:** Managed with `.env` file using `dotenv`
 - **Frontend:** HTML, CSS, JavaScript
+
+## Live Demo
+
+Check out the live version of this Weather App here:  
+https://weather-app-kxif.onrender.com
